@@ -1,6 +1,7 @@
 # Système de Gestion de Projets
 
 Un système de gestion de projets complet développé en PHP avec une architecture MVC.
+Projet réalisé en binome.
 
 ## Fonctionnalités
 
@@ -81,7 +82,13 @@ composer install
 - Gestion sécurisée des sessions
 - Protection CSRF
 - Hachage des mots de passe
+  
+### Ma contribution
 
+- Developpement de l'interface utilisateur en HTML, CSS et JavaScript
+- Gestion de la navigation entre les pages
+- Gestion des formulaires et interactions entre utilisateurs
+  
 ## Contribution
 
 1. Fork le projet
@@ -97,6 +104,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## Contact
 
 Nourane HAMMOUDA - nouranehamouda09@gmail@.com
-Sow Penda- 43000120@parisnanterre.fr
+Sow Penda- psow7896@gmail.com
+
 
 Lien du projet: https://github.com/nourane-hammouda/NexusCRUD
