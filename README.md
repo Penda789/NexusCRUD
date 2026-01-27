@@ -85,9 +85,9 @@ composer install
   
 ### Ma contribution
 
-- Developpement de l'interface utilisateur en HTML, CSS et JavaScript
-- Gestion de la navigation entre les pages
-- Gestion des formulaires et interactions entre utilisateurs
+- Conception et développement de l’interface utilisateur en HTML, CSS et JavaScript  
+- Gestion de la navigation et de la structure des pages  
+- Implémentation des fonctionnalités CRUD via des formulaires interactifs et une gestion dynamique des données côté client
   
 ## Contribution
 
